@@ -1,0 +1,35 @@
+
+body{
+	padding:30px;
+}
+.row{
+	float:left;
+	overflow:auto;
+	clear:both;
+}
+button{
+	color:white;
+	background-color:rgb(104,178,93);
+	display:block;
+	height:51px;
+	width:52px;
+	float:left;
+	border:1px solid rgb(165,209,158);
+
+}
+#answer{
+	color:white;
+	background-color:rgb(104,178,93);
+	display:block;
+	float:left;
+	height:51px;
+	width:154px;
+	border:1px solid rgb(165,209,198);
+}
+.symbol{
+	background-color:rgb(133,192,123);
+	color:black;
+}
+.symbol:hover{
+	color:white;
+}
